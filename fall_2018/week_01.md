@@ -1,3 +1,5 @@
+Week 1
+
 ## Last Week's Accomplishments
 
 > In this section, you can write about what you accomplished in the previous week.
@@ -22,11 +24,13 @@
 
 Week 2
 
-##Last Week's Accomplishment
+## Last Week's Accomplishments
+
 >Kept looking at documents fpr MySQL. Specifically on Combining tables.
 >Had a meeting in which we discussed and determined the final layout for out database tables.
 
-##This Week's Plan
+## This Week's Plan
+
 >Starting doing some test cases.
 
 ## Anything Blocking?
