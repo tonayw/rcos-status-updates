@@ -18,3 +18,16 @@
 ## Notes
 
 > This is an optional section for any sort of information that does not fall under any of the other categories.
+
+
+Week 2
+
+##Last Week's Accomplishment
+>Kept looking at documents fpr MySQL. Specifically on Combining tables.
+>Had a meeting in which we discussed and determined the final layout for out database tables.
+
+##This Week's Plan
+>Starting doing some test cases.
+
+## Anything Blocking?
+Not much. Mostly trivial bugs and errors in test codes.
