@@ -34,4 +34,4 @@ Week 2
 >Starting doing some test cases.
 
 ## Anything Blocking?
-Not much. Mostly trivial bugs and errors in test codes.
+>Not much. Mostly trivial bugs and errors in test codes.
